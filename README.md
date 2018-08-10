@@ -1,5 +1,5 @@
-# Module_Lulu5239
-Ceci est le module fançais de Lulu5239.
+# Module Lulu5239
+Ceci est le module (plutôt inutile) fançais de Lulu5239.
 
 ## Utilisation
 Sur une ligne au début : `var Lulu5239 = require("Lulu5239")`
